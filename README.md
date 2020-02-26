@@ -28,6 +28,7 @@ Movie object format:
 }
 ```
 
+
 ### Part 2 - Deleting A Movie:
 
 - Add a delete button in the movie component that makes a DELETE request
